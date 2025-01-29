@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidney, a PhD candidate at the University of Michigan School of Information
-- 🧠 I'm interested in the social processes underlying knowledge production, particularly disciplinary norms
+- 🧠 I'm interested in the social processes underlying knowledge production, particularly with regards to evaluation
 - 📫 sdxiang@umich.edu
 
 <!---
